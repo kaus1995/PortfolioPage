@@ -1,0 +1,15 @@
+nav{
+    background-color: #565656;
+}
+
+body{
+    background-color: #D7CEC7;
+}
+
+#brand{
+    color:white;
+}
+
+li{
+    display:inline;
+}
